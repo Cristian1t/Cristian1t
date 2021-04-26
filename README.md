@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cristian
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me: cristianturmacu.com
+- 🌱 I’m currently learning Node.js, Express, MongoDB
+- 📫 How to reach me: [MY PERSONAL WEBSITE](https://cristianturmacu.com)
 
 <!---
 Cristian1t/Cristian1t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
