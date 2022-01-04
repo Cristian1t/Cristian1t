@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cristian
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning Node.js, Express, MongoDB
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [MY PERSONAL WEBSITE](https://cristianturmacu.com)
 
 <!---
