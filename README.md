@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cristian
-- 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently doing Freelance work
 - 📫 How to reach me: [MY PERSONAL WEBSITE](https://cristianturmacu.com)
 
 <!---
